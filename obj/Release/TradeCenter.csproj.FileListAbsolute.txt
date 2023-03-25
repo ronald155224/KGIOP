@@ -1,0 +1,15 @@
+D:\c_project\KGIOP\bin\Release\KGIOP.exe.config
+D:\c_project\KGIOP\bin\Release\KGIOP.exe
+D:\c_project\KGIOP\bin\Release\KGIOP.pdb
+D:\c_project\KGIOP\bin\Release\Package.dll
+D:\c_project\KGIOP\bin\Release\PushClient.dll
+D:\c_project\KGIOP\bin\Release\QuoteCom.dll
+D:\c_project\KGIOP\bin\Release\TradeCom.dll
+D:\c_project\KGIOP\obj\Release\TradeCenter.csproj.SuggestedBindingRedirects.cache
+D:\c_project\KGIOP\obj\Release\KGIOP.Form1.resources
+D:\c_project\KGIOP\obj\Release\KGIOP.Properties.Resources.resources
+D:\c_project\KGIOP\obj\Release\TradeCenter.csproj.GenerateResource.cache
+D:\c_project\KGIOP\obj\Release\TradeCenter.csproj.CoreCompileInputs.cache
+D:\c_project\KGIOP\obj\Release\TradeCenter.csproj.CopyComplete
+D:\c_project\KGIOP\obj\Release\KGIOP.exe
+D:\c_project\KGIOP\obj\Release\KGIOP.pdb
